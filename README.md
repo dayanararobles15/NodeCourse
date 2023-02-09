@@ -10,7 +10,11 @@ In this repository you can find basic examples to understand from how loads are 
 
 ## :woman_technologist: Technology
 
-In this repository you can find basic examples to understand from how loads are handled with Node to how the implementation for servers could be developed.
+-JavaScript
+
+-HTML
+
+-Handlebars
 
 ## :clipboard: Requirements
 
