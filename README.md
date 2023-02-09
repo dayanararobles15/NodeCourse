@@ -1,5 +1,5 @@
 
-# Basic Node.Js Examples
+# Basic Node.js Examples
 
 
 
@@ -23,7 +23,7 @@ In this repository you can find basic examples to understand from how loads are 
 
 [- Visual Studio Code](https://code.visualstudio.com/) 
 
-## Authors
+## :woman_office_worker: Authors
 
 - [@dayanararobles15](https://github.com/dayanararobles15)
 
