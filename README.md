@@ -14,12 +14,10 @@ In this repository you can find basic examples to understand from how loads are 
 
 ## :clipboard: Requirements
 
-In this repository you can find basic examples to understand from how loads are handled with Node to how the implementation for servers could be developed.
-
+[- Node.js](https://nodejs.org/es/) 
 ## :computer: IDE
 
-In this repository you can find basic examples to understand from how loads are handled with Node to how the implementation for servers could be developed.
-
+[- Visual Studio Code](https://code.visualstudio.com/) 
 
 ## Authors
 
